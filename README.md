@@ -10,6 +10,6 @@ Model.ipynb contains the code to test 3 different models (XGBoost, Random Forest
 Team Firewatch Final Report - The Final Report Describing the project and the findings.
 
 ## Contributors
-Dewang Marya
-Jasjeet Singh
+Dewang Marya\
+Jasjeet Singh\
 Vrinda .
